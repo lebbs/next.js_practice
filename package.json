@@ -7,10 +7,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-mongo": "^3.2.0",
     "mongodb": "^3.5.9",
     "next": "latest",
+    "next-session": "^3.4.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "validator": "^13.5.2"
   },
   "license": "MIT"
 }
