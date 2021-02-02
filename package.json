@@ -12,6 +12,7 @@
     "mongodb": "^3.5.9",
     "next": "latest",
     "next-session": "^3.4.0",
+    "passport": "^0.4.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "validator": "^13.5.2"
